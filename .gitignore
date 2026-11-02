@@ -1,0 +1,9 @@
+# Reference material is not part of the public website.
+*.pdf
+
+# Local archives and temporary files.
+*.zip
+tmp/
+node_modules/
+.DS_Store
+Thumbs.db
